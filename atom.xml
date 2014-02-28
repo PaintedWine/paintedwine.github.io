@@ -4,7 +4,7 @@
   <title><![CDATA[Painted Wine]]></title>
   <link href="http://paintedwine.github.io/atom.xml" rel="self"/>
   <link href="http://paintedwine.github.io/"/>
-  <updated>2014-02-28T14:36:08-05:00</updated>
+  <updated>2014-02-28T16:00:37-05:00</updated>
   <id>http://paintedwine.github.io/</id>
   <author>
     <name><![CDATA[Avery Mefford]]></name>
@@ -12,5 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mary Cassatt]]></title>
+    <link href="http://paintedwine.github.io/bottles/mary-cassatt/"/>
+    <updated>2014-02-28T15:59:31-05:00</updated>
+    <id>http://paintedwine.github.io/bottles/mary-cassatt</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Coral Island]]></title>
+    <link href="http://paintedwine.github.io/bottles/coral-island/"/>
+    <updated>2014-02-28T15:59:21-05:00</updated>
+    <id>http://paintedwine.github.io/bottles/coral-island</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Geisha]]></title>
+    <link href="http://paintedwine.github.io/bottles/geisha/"/>
+    <updated>2014-02-28T15:40:15-05:00</updated>
+    <id>http://paintedwine.github.io/bottles/geisha</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
