@@ -28,6 +28,13 @@ footer[role=contentinfo] {
   padding-top: 84px;
 }
 
+#main #description {
+  a, a:hover, a:focus {
+    color: #224;
+    font-weight: bold;
+  }
+}
+
 #main .bottle {
   display: inline;
   height: 448px;
@@ -40,4 +47,13 @@ footer[role=contentinfo] {
 
 #main a {
   color: #840032;
+}
+
+footer {
+  a, a:hover, a:focus {
+    color: #840032;
+  }
+  .text-muted {
+    color: #555;
+  }
 }
